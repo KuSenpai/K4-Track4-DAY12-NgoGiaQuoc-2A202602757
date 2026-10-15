@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| Họ và tên | `<điền>` |
+| Họ và tên | `Ngô Gia Quốc` |
 | MSSV (đúng bằng `--student-id` bạn đã chạy) | `2A202602757` |
 | GitHub | `<điền: tên tài khoản>` |
 | Seed chia dữ liệu / seed mô hình (xem `evidence/closedloop.json`, mục `student`) | split seed 4419 / model seeds 9702–9706 |
